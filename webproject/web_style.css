@@ -2,9 +2,30 @@
 
 	
 	
-		title {
-		color: #00DDCC;
-		background-color: #EEFF66;
-		border: 1px solid black:
-		text.align centre
-	}
+		
+
+	
+	
+	 body {
+	color: #1BD49B;
+	background-color: white;
+	
+	text-align: center;
+	 }
+	 
+	 
+	 #Button_a {
+		 border-radius:20px;
+		 color:black;
+		 background-color: #1BD49B;
+		 text-decoration: none;
+		 padding: 5px;
+	 }
+	 
+	 header {
+	border-radius: 15px;
+	border-radius: 20px;
+	background-color: green;
+	text-align: center;
+	padding: 12px;
+	 }
