@@ -29,3 +29,9 @@
 	text-align: center;
 	padding: 12px;
 	 }
+	 
+	 logo {
+		 position: top-left;
+		 top: 0;
+		 left:0;
+	 }
